@@ -1,6 +1,6 @@
 package com.dbs.beans;
 
-public class ConsoleRenderer implements MessageRenderer {
+public class ConsoleMessageRenderer implements MessageRenderer {
 
     MessageProvider messageProvider;
 

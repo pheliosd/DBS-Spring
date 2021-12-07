@@ -5,35 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42785f65-f5e7-4488-ab7a-773bad275994" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dbs/app/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dbs/beans/ConsoleRenderer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dbs/beans/HelloMessageRenderer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dbs/beans/MessageProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dbs/beans/MessageRenderer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo_03/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Log4jMaven_01/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Log4jMaven_01/src/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Log4jMaven_01/src/main/java/com/dbs/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringDemo_03/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/com/dbs/app/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com.app/dbs/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/message.prop" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled104.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_03/src/com/dbs/beans/ConsoleMessageRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_03/src/com/dbs/beans/HelloMessageRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_03/src/com/dbs/beans/MessageProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_03/src/com/dbs/beans/MessageRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dbs/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dbs/app/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dbs/beans/ConsoleRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dbs/beans/ConsoleMessageRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo_03/src/com/dbs/app/FactoryTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo_03/src/com/dbs/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo_03/src/com/dbs/app/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +133,7 @@
       <option name="presentableId" value="Default" />
       <updated>1638891831859</updated>
       <workItem from="1638891833581" duration="2000" />
-      <workItem from="1638891988257" duration="2083000" />
+      <workItem from="1638891988257" duration="3662000" />
     </task>
     <servers />
   </component>
