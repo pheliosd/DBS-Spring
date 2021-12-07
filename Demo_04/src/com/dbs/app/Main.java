@@ -4,6 +4,7 @@ import com.dbs.beans.ConsoleMessageRenderer;
 import com.dbs.beans.HelloMessageRenderer;
 import com.dbs.beans.MessageProvider;
 import com.dbs.beans.MessageRenderer;
+import com.dbs.helper.MessageFactory;
 
 public class Main {
 
@@ -11,8 +12,8 @@ public class Main {
 
     public static void main(String[] args) {
         // write your code here
-        MessageRenderer renderer = new ConsoleMessageRenderer();
-        MessageProvider provider = new HelloMessageRenderer();
+        MessageRenderer renderer = MessageFactory.getMessageRenderer();
+        MessageProvider provider = MessageFactory.getMessageProvider();
 
         renderer.setMessageProvider(provider);
         renderer.render();

@@ -1,4 +1,4 @@
-package com.dbs;
+package com.dbs.app;
 
 public class HelloWorld {
     private String message;
