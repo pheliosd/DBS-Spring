@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+ http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="listClass" class="com.dbs.list.ListClass">
+        <property name="books">
+            <list>
+                <value>Java Developer</value>
+                <value>Welcome To C-</value>
+                <value>Hello wold</value>
+            </list>
+
+        </property>
+    </bean>
+<bean id="setclass" class="com.dbs.set.SetClass">
+    <property name="cities">
+        <set>
+            <value>Hyderabad</value>
+            <value>Hyderabad</value>
+            <value>Chennai</value>
+            <value>Delhi</value>
+        </set>
+    </property>
+</bean>
+    <bean id="mapclass" class="com.dbs.map.MapClass">
+        <property name="Employee">
+            <map>
+                <entry key="don" value="420"/>
+                <entry key="harsha" value="235"/>
+                <entry key="gopi" value="116"/>
+            </map>
+        </property>
+    </bean>
+</beans>
